@@ -1,0 +1,28 @@
+.user-card-container {
+  list-style: none;
+  display: flex;
+  background-color: aliceblue;
+  border: 2px solid yellow;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+  color: black;
+  font-weight: 300;
+  height: 400px;
+  width:30%;
+}
+
+.book-image{
+  margin-top: 15px;
+  height: 280px;
+  width: 200px;
+  border-radius: 15px;
+}
+.user-name {
+  font-size: 18px;
+}
+
+.user-details-container{
+  padding-left: 10px;
+}
+
